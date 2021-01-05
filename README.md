@@ -2,9 +2,9 @@
 
 ## 📄 About me
 
-I am a geek interested in **Computer Science** and **Software Engineering**.<br>
-Computer Science student at the **Alexandru Ioan Cuza University of Iasi.**<br>
-Working as a **Fullstack developer (Node.JS + Postgres + Kubernetes + React).**
+👨 I am a geek interested in **Computer Science** and **Software Engineering**.<br>
+👨‍🎓 Computer Science student at the **Alexandru Ioan Cuza University of Iasi.**<br>
+👨‍💼 Working as a **Fullstack developer (Node.JS + Postgres + Kubernetes + React).**
 
 Here you can find a small part of what I usually do & build in my spare time.
 
