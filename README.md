@@ -15,6 +15,7 @@ I have multiple interests. A small list would be:
 - 🎨 Frontend development in **React & friends**
 - 💿 Databases, such as **Postgres, MongoDB**
 - ☁️ Cloud platforms, such as **AWS and Azure**
+- 📦 IoT projects
 - 📡 Distributed computing, distributed systems
 - 🛰 Computer networks
 - 🔐 Security, pentesting, exploit finding & patching
