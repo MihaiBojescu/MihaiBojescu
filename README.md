@@ -11,8 +11,8 @@ Here you can find a small part of what I usually do & build in my spare time.
 ## 🧑‍💻 Main interests
 
 I have multiple interests. A small list would be:
-- ⚙️ Backend development in **Node.JS, .NET, Go, Python, Java**
-- 🎨 Frontend development in **React & friends**
+- ⚙️ Backend development in **Node.JS, .NET, Go, Python, Java, Rust**
+- 🎨 Frontend development in **React, Svelte**
 - 💿 Databases, such as **Postgres, MongoDB**
 - ☁️ Cloud platforms, such as **AWS and Azure**
 - 📦 IoT projects
