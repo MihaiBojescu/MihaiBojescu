@@ -3,7 +3,8 @@
 ## 📄 About me
 
 👨 I am a geek interested in **Computer Science** and **Software Engineering**.<br>
-👨‍🎓 Computer Science student at the **Alexandru Ioan Cuza University of Iasi.**<br>
+👨‍🎓 Finished my Bachelor's degree in Computer Science at the **Alexandru Ioan Cuza University of Iasi.**<br>
+👨‍🎓 Currently pursuing a Master's in Artificial Intelligence & Optimisation at the **Alexandru Ioan Cuza University of Iasi.**<br>
 👨‍💼 Working as a **Fullstack developer (Node.JS + Postgres + Kubernetes + React).**
 
 Here you can find a small part of what I usually do & build in my spare time.
@@ -17,6 +18,7 @@ I have multiple interests. A small list would be:
 - ☁️ Cloud platforms, such as **AWS and Azure**
 - 📦 IoT projects
 - 📡 Distributed computing, distributed systems
+- 🤖 Machine learning, artificial intelligence
 - 🛰 Computer networks
 - 🔐 Security, pentesting, exploit finding & patching
 - 🐧 **Linux** and **Open Source**
